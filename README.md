@@ -4,7 +4,7 @@ Este é um dos meus primeiros projetos de estudo em modelagem 3D, focado em cria
 
 O objetivo principal foi aprender os fundamentos da modelagem, aplicação de materiais simples e renderização de cena.
 
-![Render da Cena Low-Poly](Captura de tela 2025-11-10 010336.jpg)
+![Render da Cena Low-Poly] Captura de tela 2025-11-10 010336.jpg
 
 ---
 
